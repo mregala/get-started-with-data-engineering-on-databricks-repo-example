@@ -8,4 +8,8 @@
 
 # COMMAND ----------
 
+print("Hello World")
+
+# COMMAND ----------
+
 # MAGIC %md
